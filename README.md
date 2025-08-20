@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou Hector Carvalho, estudante de Ciência da Computação na PUCMINAS, e tenho um grande interesse por novas tecnologia. Minha jornada na programação começou aos 15 anos, em escolas de currículo americano, o que me proporcionou uma base técnica sólida e fluência no idioma inglês. Atualmente tenho 19 anos, e estou constantemente expandindo meus horizontes na computação. Busco oportunidades para aplicar meu conhecimento e crescer como profissional em um ambiente colaborativo e desafiador.
+Sou Hector Carvalho, estudante de Ciência da Computação na PUCMINAS, e tenho um grande interesse por novas tecnologias. Minha jornada na programação começou aos 15 anos, em escolas de currículo americano, o que me proporcionou uma base técnica sólida e fluência no idioma inglês. Atualmente tenho 19 anos, e estou constantemente expandindo meus horizontes na computação. Busco oportunidades para aplicar meu conhecimento e crescer como profissional em um ambiente colaborativo e desafiador.
 
 <p align="left">
     <a href="https://github.com/HectorBraz20?tab=repositories">
