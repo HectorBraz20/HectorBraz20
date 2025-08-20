@@ -19,10 +19,10 @@ Sou Hector Carvalho, estudante de Ciência da Computação na PUCMINAS, e tenho 
             src="https://custom-icon-badges.demolab.com/badge/-hectorfbraz20@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a>
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="localizacao" 
+            title="Localizacao" 
             src="https://custom-icon-badges.demolab.com/badge/Belo Horizonte-MG-purple?style=for-the-badge&logo=location&logoColor=white"
         />
     </a>
