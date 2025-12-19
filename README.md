@@ -1,4 +1,4 @@
-![Header](./github-banner.png)
+![Header](./github-banner-hector.png)
 
 ---
 
@@ -18,7 +18,7 @@ Sou Hector Carvalho, estudante de Ciência da Computação na PUCMINAS, e tenho 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hectfbraz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hectorfbrazcarvalho) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hectorfbraz20@gmail.com) 
 
 ---
-###🤖 Linguagens & Ferramentas:
+### 🤖 Linguagens & Ferramentas:
 <div align="center">
 
 | Languages | Web Development | Backend & APIs |
