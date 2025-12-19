@@ -1,4 +1,4 @@
-![Header](./letreiro-github-hector.gif)
+![Header](./letreiro-git-hector.gif)
 
 ---
 
