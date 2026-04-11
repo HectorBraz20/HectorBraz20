@@ -6,11 +6,11 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou Hector, estudante de Ciência da Computação na PUCMINAS, e tenho um grande interesse por novas tecnologias. Minha jornada na programação começou aos 15 anos, em escolas de currículo americano, o que me proporcionou uma base técnica sólida e fluência no idioma inglês. Atualmente tenho 19 anos, e estou constantemente expandindo meus horizontes na computação. Busco oportunidades para aplicar meu conhecimento e crescer como profissional em um ambiente colaborativo e desafiador.
+Sou Hector, estudante de Ciência da Computação na PUCMINAS, e tenho um grande interesse por novas tecnologias. Minha jornada na programação começou aos 15 anos, em escolas de currículo americano, o que me proporcionou uma base técnica sólida e fluência no idioma inglês. Atualmente tenho 20 anos, e estou constantemente expandindo meus horizontes na computação. Busco oportunidades para aplicar meu conhecimento e crescer como profissional em um ambiente colaborativo e desafiador.
 
 ---
 
-🎓Cursando: Ciencia da Computação - Puc Minas<br>🖥️Conhecimento: Front-end e Back-End<br>📈Aprendendo: Algoritmos Estruturas de Dados II, Banco de Dados, Engenharia de Software II<br>🔎Procurando: Aprimorar meu conhecimento como Dev<br>🌎Belo Horizonte - MG - Brasil<br>🛣️Hobbies: Serviço Voluntariado, Baterista, Tradutor (PT-BR | EN)
+🎓Cursando: Ciencia da Computação - Puc Minas<br>🖥️Conhecimento: Front-end e Back-End<br>📈Aprendendo: Algoritmos Estruturas de Dados II, Banco de Dados, Arquitetura de Computadores II<br>🔎Procurando: Aprimorar meu conhecimento como Dev<br>🌎Belo Horizonte - MG - Brasil<br>🛣️Hobbies: Serviço Voluntariado, Baterista, Tradutor (PT-BR | EN)
 
 ---
 
